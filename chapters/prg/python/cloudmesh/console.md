@@ -24,9 +24,9 @@ from cloudmesh.common.console import Console
 
 msg = "my message"
 
-Console.ok(msg) # prins a green message
-Console.error(msg) # prins a red message proceeded with ERROR
-Console.msg(msg) # prins a regular black message
+Console.ok(msg) # prints a green message
+Console.error(msg) # prints a red message proceeded with ERROR
+Console.msg(msg) # prints a regular black message
 ```
 
 In case of the error message we also have convenient flags that allow us
